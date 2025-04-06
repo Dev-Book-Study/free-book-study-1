@@ -45,8 +45,10 @@ e.g. `ADD : [Clean Code] 3장(함수) - 발표 자료 추가`
 
 ## 🗓️ 진행 상황
 
-| 공유자 | 공유 주제 | 공유 날짜 |
-|:---:|:---:|:---:|
-|<a href="https://github.com/dev-splin" target="_blank"><img src="https://github.com/dev-splin.png" width="100"/><a/>|-|-|
-|<a href="https://github.com/codemario318" target="_blank"><img src="https://github.com/codemario318.png" width="100"/><a/>|-|-|
-|<a href="https://github.com/Shin-GS" target="_blank"><img src="https://github.com/Shin-GS.png" width="100"/><a/>|-|-|
+| 공유자 | 책 선정 | 공유 주제 | 공유 날짜 |
+|:---:|:---:|:---:|:---:|
+|<a href="https://github.com/dev-splin" target="_blank"><img src="https://github.com/dev-splin.png" width="100"/><a/>|[프론트엔드 성능 최적화 가이드](https://product.kyobobook.co.kr/detail/S000200178292)
+|-|-|
+|<a href="https://github.com/codemario318" target="_blank"><img src="https://github.com/codemario318.png" width="100"/><a/>|[데이터 중심 애플리케이션 설계](https://product.kyobobook.co.kr/detail/S000001766328)|-|-|
+|<a href="https://github.com/Shin-GS" target="_blank"><img src="https://github.com/Shin-GS.png" width="100"/><a/>|[스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://product.kyobobook.co.kr/detail/S000001019679)
+|-|-|
