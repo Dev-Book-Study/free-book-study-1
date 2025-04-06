@@ -5,7 +5,7 @@
 
 ## 📝 공유 방식
 
-✨ 공유는 매주 일요일 저녁 10시 ✨
+✨ 공유는 매주 일요일 저녁 9시 ✨
 
 1. 각자 도서를 읽고 `공유하고 싶은 자료 정리`
 2. 스터디시간 전까지 각자의 `공유 자료를 Repository에 PR(Pull-Request)`
@@ -48,6 +48,5 @@ e.g. `ADD : [Clean Code] 3장(함수) - 발표 자료 추가`
 | 공유자 | 공유 주제 | 공유 날짜 |
 |:---:|:---:|:---:|
 |<a href="https://github.com/dev-splin" target="_blank"><img src="https://github.com/dev-splin.png" width="100"/><a/>|-|-|
-|<a href="https://github.com/LEE010" target="_blank"><img src="https://github.com/LEE010.png" width="100"/><a/>|-|-|
-|<a href="https://github.com/developyoun" target="_blank"><img src="https://github.com/developyoun.png" width="100"/><a/>|-|-|
-|<a href="https://github.com/jhwlim" target="_blank"><img src="https://github.com/jhwlim.png" width="100"/><a/>|-|-|
+|<a href="https://github.com/codemario318" target="_blank"><img src="https://github.com/codemario318" width="100"/><a/>|-|-|
+|<a href="https://github.com/Shin-GS" target="_blank"><img src="https://github.com/Shin-GS" width="100"/><a/>|-|-|
