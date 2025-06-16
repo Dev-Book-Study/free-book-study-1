@@ -1,4 +1,4 @@
-# 📘 Spring Security 학습 문서 (2025, Java 21 + Spring Boot 3.4 기준)
+# 📘 학습 자료 요약
 
 ## 🔗 참고 사항
 
